@@ -8,7 +8,7 @@ Coingecko, Coinmarketcap Sniper bot, it buys any BSC token that has been newly l
 
 📦 Install
 
-1. Download python3.12 for your PC from python org, extract the ABI and themes zip into the folder with the bot
+1. Download python3.12 for your PC from python
 Link for download python: https://www.python.org/downloads/release/python-3120a1/
 2. Unzip folder Coingecko-coinmarketcap-BSC-Sniper-bot. 
 3. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.
